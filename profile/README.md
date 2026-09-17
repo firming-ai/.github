@@ -1,9 +1,7 @@
-# Offpeak
+# Firming
 
-Offpeak is the night market for intelligence. Deadline-priced inference: same
-model, same tokens, a different hour. The SDK lives at
-[offpeak-ai/offpeak](https://github.com/offpeak-ai/offpeak) and installs from
-PyPI as [`offpeak`](https://pypi.org/project/offpeak/).
+**Firm prices on AI inference.** 20% under list, same models, same speed, never worse than list — a sidecar inside your perimeter, on your keys, settled monthly against your own invoice.
 
-Design partners: we're onboarding — [open an
-issue](https://github.com/offpeak-ai/offpeak/issues) to talk.
+[firming.ai](https://firming.ai) · [firming-ai/firming](https://github.com/firming-ai/firming) — the code, the spec, and the public marks. **FILL** is the index behind the price: how often the venues' discount lanes fill inside the budget.
+
+The sidecar is in build. To talk, [open an issue](https://github.com/firming-ai/firming/issues).
